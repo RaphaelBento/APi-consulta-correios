@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GL0vygM3IXz4Di4T+E8TEEe6O4ihkl6mgOqwK2RNh9qb+q4F2L2J6DsWkyp4gNcWzkdNXKlYmF8OTIZxTkauxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rapha\\source\\repos\\ConsoleApi\\ConsoleApi\\ConsoleApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rapha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

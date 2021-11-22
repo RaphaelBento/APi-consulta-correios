@@ -1,0 +1,16 @@
+C:\Users\rapha\source\repos\ConsoleApi\ConsoleApi\bin\Debug\netcoreapp3.1\ConsoleApi.exe
+C:\Users\rapha\source\repos\ConsoleApi\ConsoleApi\bin\Debug\netcoreapp3.1\ConsoleApi.deps.json
+C:\Users\rapha\source\repos\ConsoleApi\ConsoleApi\bin\Debug\netcoreapp3.1\ConsoleApi.runtimeconfig.json
+C:\Users\rapha\source\repos\ConsoleApi\ConsoleApi\bin\Debug\netcoreapp3.1\ConsoleApi.runtimeconfig.dev.json
+C:\Users\rapha\source\repos\ConsoleApi\ConsoleApi\bin\Debug\netcoreapp3.1\ConsoleApi.dll
+C:\Users\rapha\source\repos\ConsoleApi\ConsoleApi\bin\Debug\netcoreapp3.1\ConsoleApi.pdb
+C:\Users\rapha\source\repos\ConsoleApi\ConsoleApi\obj\Debug\netcoreapp3.1\ConsoleApi.csproj.AssemblyReference.cache
+C:\Users\rapha\source\repos\ConsoleApi\ConsoleApi\obj\Debug\netcoreapp3.1\ConsoleApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\source\repos\ConsoleApi\ConsoleApi\obj\Debug\netcoreapp3.1\ConsoleApi.AssemblyInfoInputs.cache
+C:\Users\rapha\source\repos\ConsoleApi\ConsoleApi\obj\Debug\netcoreapp3.1\ConsoleApi.AssemblyInfo.cs
+C:\Users\rapha\source\repos\ConsoleApi\ConsoleApi\obj\Debug\netcoreapp3.1\ConsoleApi.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\ConsoleApi\ConsoleApi\obj\Debug\netcoreapp3.1\ConsoleApi.dll
+C:\Users\rapha\source\repos\ConsoleApi\ConsoleApi\obj\Debug\netcoreapp3.1\ConsoleApi.pdb
+C:\Users\rapha\source\repos\ConsoleApi\ConsoleApi\obj\Debug\netcoreapp3.1\ConsoleApi.genruntimeconfig.cache
+C:\Users\rapha\source\repos\ConsoleApi\ConsoleApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rapha\source\repos\ConsoleApi\ConsoleApi\obj\Debug\netcoreapp3.1\ConsoleApi.csproj.CopyComplete
